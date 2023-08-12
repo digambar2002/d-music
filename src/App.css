@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.text-light-purple {
+  color: #a8a2af;
+}
+.fs-14{
+  font-size: 14px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
